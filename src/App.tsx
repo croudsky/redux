@@ -6,6 +6,6 @@ const App: React.FC = () => {
       <h1>Hello, world!</h1>
     </div>
   );
-}
+};
 
 export default App;
